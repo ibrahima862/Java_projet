@@ -237,7 +237,7 @@ public class InterfaceLogin extends JFrame {
     static class addButton extends JButton {
         public addButton(String text) {
             super(text);
-            setFont(new Font("Segoe UI", Font.BOLD, 10));
+            setFont(new Font("Segoe UI", Font.BOLD, 13));
             setBackground(new Color(45, 31, 36));
             setForeground(Color.WHITE);
             setFocusPainted(true);
